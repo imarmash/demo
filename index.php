@@ -12,7 +12,8 @@ Session pages
 <p><a href="/dyn_session.php">DynamoDb Session</a></p>
 <p><a href="/dyn_session.php">DynamoDb Session</a></p>
 <p><a href="/dyn_session.php">DynamoDb Session</a></p>
-<img src="https://www.google.com/search?q=car&source=lnms&tbm=isch&sa=X&ved=0ahUKEwjSkN7njbPeAhWuzoUKHWS-DvwQ_AUIDigB&biw=1680&bih=976#imgrc=0ofSUmkLLkBGnM:"/>
+<img src="https://s3-eu-west-1.amazonaws.com/app1-aws-scalble-bucket/AWS.png"/>
+<img src="https://s3-eu-west-1.amazonaws.com/app1-aws-scalble-bucket/AWS.png"/>
 
 Image pages
 <p><a href="/image.php">Image in EBS vol</a></p>
